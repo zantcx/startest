@@ -15,32 +15,32 @@
 .visual .title .btn {
   position: absolute;
   top: 259px;
-  left: 173px;
+  left: 373px;
 }
 .visual .cup1.image {
   position: absolute;
   bottom: 0px;
-  right: -17px;
+  right: -217px;
 }
 .visual .cup1.text {
   position: absolute;
   top: 38px;
-  right: 141px;
+  right: -60px;
 }
 .visual .cup2.image {
   position: absolute;
   bottom: 0;
-  right: 132px;
+  right: -32px;
 }
 .visual .cup2.text {
   position: absolute;
   top: 321px;
-  right: 386px;
+  right: 186px;
 }
 .visual .spoon {
   position: absolute;
   bottom: 0;
-  left: 315px;
+  left: 0px;
 }
 .visual .fade-in {
   opacity: 0;
